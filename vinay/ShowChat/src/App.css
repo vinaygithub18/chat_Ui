@@ -1,0 +1,17 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    border: 2px solid black;
+    width: fit-content;
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
+
+.ecommerce-element{
+    display: flex;
+    justify-content: center;
+}
